@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1265672320 source:d:\courses\comp477\src\string\string.cpp
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1296435071 source:j:\courses\comp477\src\string\string.cpp
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1328200517 source:j:\courses\comp-477-6311\demos\string\string.cpp
+	<GL/glut.h>
+	<iostream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+

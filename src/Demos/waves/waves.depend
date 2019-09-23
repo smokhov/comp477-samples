@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1362328546 source:j:\courses\comp-477-6311\demos\waves\waves.cpp
+	<GL/glut.h>
+	<GL/cugl.h>
+	<cmath>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<sstream>
+

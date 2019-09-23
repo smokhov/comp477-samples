@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1228843542 source:d:\graphics\torus viewer\viewer.cpp
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1228839942 source:j:\graphics\torus viewer\viewer.cpp
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1328409293 source:j:\courses\comp477\demos\torusviewer\torusviewer.cpp
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1328409293 source:j:\courses\comp-477-6311\demos\torusviewer\torusviewer.cpp
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+

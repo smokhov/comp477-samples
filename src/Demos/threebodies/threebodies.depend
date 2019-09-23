@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1267903380 source:d:\courses\comp477\src\threebodies\threebodies.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<sstream>
+
+1267903380 source:j:\courses\comp477\src\threebodies\threebodies.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<sstream>
+
+1328208688 source:j:\courses\comp477\demos\threebodies\threebodies.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<sstream>
+
+1328208943 source:j:\courses\comp-477-6311\demos\threebodies\threebodies.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<sstream>
+

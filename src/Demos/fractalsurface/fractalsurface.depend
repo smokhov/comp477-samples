@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1300646924 source:j:\courses\comp477\src\fractalsurface\fractalsurface.cpp
+	<GL/glut.h>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1329074215 source:j:\courses\comp477\demos\fractalsurface\fractalsurface.cpp
+	<GL/glut.h>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<iomanip>
+	<windows.h>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1247536131 source:d:\libraries\cugl\cb\stability\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+
+1263994803 source:j:\libraries\cugl\cb\stability\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+
+1294606433 source:j:\libraries\cugl\cb\stability\stability.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+
+1294610033 source:j:\courses\comp477\demos\stability\stability.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+
+1294606433 source:j:\courses\comp-477-6311\demos\stability\stability.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1265677965 source:d:\courses\comp477\src\springlinks\springlinks.cpp
+	<GL/glut.h>
+	<cassert>
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<vector>
+	<io.h>
+
+1296425433 source:j:\courses\comp477\src\springlinks\springlinks.cpp
+	<GL/glut.h>
+	<cassert>
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<vector>
+	<io.h>
+
+1328204721 source:j:\courses\comp477\demos\springlinks\springlinks.cpp
+	<GL/glut.h>
+	<cassert>
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<vector>
+	<io.h>
+
+1356822620 source:j:\courses\comp-477-6311\demos\springlinks\springlinks.cpp
+	<GL/glut.h>
+	<cassert>
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<vector>
+	<io.h>
+

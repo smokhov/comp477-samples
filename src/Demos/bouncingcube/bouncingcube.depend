@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1298927871 source:d:\courses\comp 477\bouncingcube\demobounce.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+
+1298924433 d:\courses\comp 477\bouncingcube\cugl.h
+	<GL/glu.h>
+	<iostream>
+	<cmath>
+
+1295205110 source:d:\courses\comp 477\bouncingcube\cugl.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+
+1300027446 source:j:\courses\comp477\bouncingcube\demobounce.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+
+1298928034 j:\courses\comp477\bouncingcube\cugl.h
+	<GL/glu.h>
+	<iostream>
+	<cmath>
+
+1295208710 source:j:\courses\comp477\bouncingcube\cugl.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+
+1330263833 source:j:\courses\comp477\demos\bouncingcube\demobounce.cpp
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1298924434 j:\courses\comp477\demos\bouncingcube\cugl.h
+	<GL/glu.h>
+	<iostream>
+	<cmath>
+
+1295205110 source:j:\courses\comp477\demos\bouncingcube\cugl.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+
+1330267230 source:j:\courses\comp477\demos\bouncingcube\bouncingcube.cpp
+	<cassert>
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+

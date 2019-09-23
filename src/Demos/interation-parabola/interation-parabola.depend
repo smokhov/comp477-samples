@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1360102811 source:j:\courses\comp-477-6311\demos\interation-parabola\integration.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

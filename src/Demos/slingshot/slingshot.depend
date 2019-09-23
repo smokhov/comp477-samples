@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1328407692 source:j:\courses\comp477\demos\slingshot\slingshot.cpp
+	<GL/cugl.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<windows.h>
+
+1328407692 source:j:\courses\comp-477-6311\demos\slingshot\slingshot.cpp
+	<GL/cugl.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<windows.h>
+

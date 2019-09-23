@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1295207660 source:j:\courses\comp477\src\buildcurve\buildcurve.cpp
+	<cassert>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295242237 source:j:\courses\comp477\demos\buildcurve\buildcurve.cpp
+	<cassert>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

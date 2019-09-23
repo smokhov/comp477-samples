@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1358729469 source:j:\courses\comp-477-6311\demos\adapt\adapt.cpp
+	<cassert>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

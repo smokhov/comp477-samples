@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+\usepackage{formulas}
+
+\begin{document}
+\maketitle{Math for Sling Shot Simulation}
+
+Notation:
+\be
+G      & \equiv & \mbox{Gravitational constant}\\
+M      & \equiv & \mbox{Sun's mass}\\
+m      & \equiv & \mbox{Planet's mass}\\
+R      & \equiv & \mbox{Planet's orbital radius}\\
+\omega & \equiv & \mbox{Planet's orbital angular velocity}\\
+\phi   & \equiv & \mbox{Planet's phase}\\
+v      & \equiv & \mbox{Speed of planet along its orbit}\\
+v_e    & \equiv & \mbox{Escape velocity of planet}\\
+\ee
+
+Basic facts:
+$$ \begin{array}{lcl}
+\mbox{Gravitational attraction between sun and planet} & = & \dfrac{GMm}{R^2} . \\[2ex]
+\mbox{Acceleration of the planet due to the sun}       & = & \dfrac{GM}{R^2} . \\[2ex]
+\mbox{Centripetal acceleration of the planet}          & = & \omega^2 R . \\
+\end{array} $$
+The centripetal acceleration of the planet must be equal to the acceleration due to the sun, and so
+\be \omega^2 R & = & \dfrac{GM}{R^2} \ee
+from which it follows that
+\be \omega & = & \sqrt{\dfrac{GM}{R^3}} \ee
+and
+\be
+v & = & \omega \, R \\[2ex]
+  & = & \sqrt{\dfrac{GM}{R}} .
+\ee
+
+The \emph{phase} $\phi$ of a planet is its angular position at time 0.
+\be
+\mbox{Position of planet at time $t$ in the $XY$ plane} & = & (R \cos(\phi + \omega \, t),\; R \sin(\phi + \omega \, t)) , \\
+\mbox{Velocity of planet at time $t$ in the $XY$ plane} & = & (-R \omega \, \sin(\phi + \omega \, t),\; R \omega \, \cos(\phi + \omega \, t)) . 
+\ee
+
+The equation of an orbit with eccentricity $e$ is
+\be r & = & R \; \dfrac{1 + e}{1 + e \cos\theta} . \ee
+If $e=0$, the orbit is a circle with radius $R$.
+
+At perihelion (closest to sun), $\theta=0$ and
+\be r & = & R \; \dfrac{1 + e}{1 + e \cos 0} \\[2ex]
+      & = & R .
+\ee
+At aphelion (furthest from sun), $\theta=\pi$ and
+\be r & = & R \; \dfrac{1 + e}{1 + e \cos \pi} \\[2ex]
+      & = & R \; \dfrac{1 + e}{1 - e }.
+\ee
+
+A satellite is at distance $R$ from the sun.  The velocity for a circular orbit is $v$, as given above.  Suppose, instead, that it is launched with velocity $u \ge v$.  It enters an orbit with eccentricity
+\be e & = & \left( \frac{u}{v} \right)^2 - 1 . \ee
+
+The orbit is $ 
+\left\{
+   \begin{array}{ll}
+      \mbox{circular}   & \mbox{if $e = 0$, } \\
+      \mbox{elliptic}   & \mbox{if $0 < e < 1$, } \\
+      \mbox{parabolic}  & \mbox{if $e = 1$, } \\
+      \mbox{hyperbolic} & \mbox{if $e > 1$. } 
+   \end{array}
+\right. $
+
+If $u=\sqrt{2}v$, then $e=1$, and the satellite leaves the system.  In general, at aphelion, the distance from the sun is
+\be 
+R_a & = & R \; \dfrac{1 + e}{1 - e } \\
+    & = & R \; \dfrac{(u/v)^2}{2-(u/v)^2} \\
+    & = & \dfrac{Ru^2}{2v^2 - u^2} .
+\ee
+
+Conversely, if we wish to achieve a distance $R_a$ from the sun, the launch velocity must be
+\be u & = & v \; \sqrt{ \dfrac{2 R_a}{R_a+R} } . \ee
+
+For escape velocity:
+$$ \begin{array}{lcl}
+\mbox{Kinetic energy of an object of mass $m_o$ moving with velocity $v_o$} & = & \frac{1}{2}m_o v_o^2 . \\[2ex]
+\mbox{Gravitational binding energy at surface of planet} & = & \dfrac{G m m_o}{r} . 
+\end{array} $$
+At escape velocity $v_e$, these two energies must balance:
+\be \textstyle\frac{1}{2}m_o v_e^2 & = & \dfrac{G m m_o}{r} \ee
+and so
+\be v_e & = & \sqrt{\frac{2Gm}{r}} . \ee
+
+
+\end{document}

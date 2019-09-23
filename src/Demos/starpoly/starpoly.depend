@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1264944544 source:d:\courses\comp477\src\starpoly\main.cpp
+	<iostream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1264948948 source:j:\courses\comp477\src\starpoly\main.cpp
+	<iostream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1264952548 source:j:\courses\comp477\demos\starpoly\main.cpp
+	<iostream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1264948948 source:j:\courses\comp-477-6311\demos\starpoly\main.cpp
+	<iostream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+

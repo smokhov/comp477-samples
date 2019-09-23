@@ -1,0 +1,48 @@
+static char *expset_dlg = "dialog(name = 'expset_dlg',\
+  style = 'wxRAISED_BORDER | wxCAPTION | wxSYSTEM_MENU',\
+  title = 'Export settings',\
+  id = 100,\
+  x = 17, y = 20, width = 308, height = 218,\
+  background_colour = 'F2ECD7',\
+  use_dialog_units = 0,\
+  use_system_defaults = 1,\
+  font = [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg'],\
+  control = [101, wxTextCtrl, '', '0', 'textctrl2', 49, 28, 105, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [102, wxStaticBox, 'To CSV format ', '0', 'staticbox3', 7, 8, 288, 52,\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [103, wxStaticBox, 'To batch file ', '0', 'staticbox4', 7, 68, 288, 104,\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [104, wxTextCtrl, '', '0', 'textctrl5', 238, 28, 43, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [105, wxTextCtrl, '', '0', 'textctrl6', 343, 180, -14, -60, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [106, wxTextCtrl, '', '0', 'textctrl7', 231, 114, 49, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [107, wxTextCtrl, '', '0', 'textctrl8', 231, 140, 49, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [108, wxTextCtrl, '', '0', 'textctrl9', 231, 88, 49, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [109, wxTextCtrl, '', '0', 'textctrl10', 96, 88, 49, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [110, wxTextCtrl, '', '0', 'textctrl11', 96, 114, 49, 20, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [111, wxStaticText, 'Joints', '0', 'statictext12', 17, 30, 28, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [112, wxStaticText, 'Coordinates', '0', 'statictext13', 175, 30, 57, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [113, wxStaticText, 'Left toe name', '0', 'statictext14', 24, 90, 70, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [114, wxStaticText, 'Right toe name', '0', 'statictext15', 17, 116, 73, 16, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [115, wxStaticText, 'Height limit', '0', 'statictext16', 173, 90, 49, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [116, wxStaticText, 'Velocity limit', '0', 'statictext17', 166, 116, 56, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [117, wxStaticText, 'Velocity delta', '0', 'statictext18', 161, 142, 63, 12, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [118, wxButton, 'OK', '0', 'button19', 134, 183, 70, 22, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']],\
+  control = [119, wxButton, 'Cancel', '0', 'button20', 218, 183, 70, 22, '',\
+      [8, 'wxSWISS', 'wxNORMAL', 'wxNORMAL', 0, 'MS Shell Dlg']]).";
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1285687020 source:d:\graphics\examples\engine\cb\engine.cpp
+	<GL/cugl.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<GL/tube.h>
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	"framecounter.h"
+
+1072460702 d:\graphics\examples\engine\cb\framecounter.h
+	<windows.h>
+	<mmsystem.h>
+
+1328398953 source:j:\courses\comp477\demos\engine\engine.cpp
+	<GL/cugl.h>
+	<GL/glui.h>
+	<GL/glut.h>
+	<GL/tube.h>
+	<cmath>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+

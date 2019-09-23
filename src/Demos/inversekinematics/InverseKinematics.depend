@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1264793456 source:d:\courses\comp477\src\inversekinematics\invkin.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295733247 source:j:\courses\comp477\src\inversekinematics\invkin.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295797448 source:j:\courses\comp-477-6311\demos\inversekinematics\invkin.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

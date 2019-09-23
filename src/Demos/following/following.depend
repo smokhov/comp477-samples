@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1263826046 source:d:\courses\comp477\src\following\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1264211180 source:j:\courses\archive\comp477\winter 2010\src\following\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295131612 source:j:\courses\comp477\src\following\following.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cassert>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1328211671 source:j:\courses\comp477\demos\following\following.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cassert>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1328212091 source:j:\courses\comp-477-6311\demos\following\following.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cassert>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

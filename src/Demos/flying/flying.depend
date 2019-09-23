@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1212626891 source:d:\libraries\cugl\cb\flying\flying.cpp
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1294611590 source:j:\courses\comp477\src\flying\flying.cpp
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<GL/glut.h>
+	<GL/cugl.h>
+	"windows.h"
+

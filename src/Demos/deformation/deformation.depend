@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1358897790 source:j:\courses\comp-477-6311\demos\deformation\deformation.cpp
+	<cassert>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1212627022 source:d:\libraries\cugl\cb\gimbal\gimbal.cpp
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<io.h>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1294277874 source:j:\courses\comp477\src\gimbal\gimbal.cpp
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<io.h>
+	<GL/glut.h>
+	<GL/cugl.h>
+
+1294606841 source:j:\courses\comp-477-6311\demos\gimbal\gimbal.cpp
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<io.h>
+	<GL/glut.h>
+	<GL/cugl.h>
+

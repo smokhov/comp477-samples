@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1265811057 source:d:\courses\comp477\src\integration\integration.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1328210026 source:j:\courses\comp477\demos\integration\integration.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1356820594 source:j:\courses\comp-477-6311\demos\integration\integration.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

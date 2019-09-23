@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1299623670 source:j:\courses\comp477\src\accumbuffer\accbuf.cpp
+	<cassert>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1299636326 source:j:\courses\comp477\demos\accumbuffer\accbuf.cpp
+	<GL/glut.h>
+
+1332261438 source:j:\courses\comp477\demos\blurmotion\accbuf.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<windows.h>
+
+1332267342 source:j:\courses\comp477\demos\blurmotion\blur.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<windows.h>
+
+1356821744 source:j:\courses\comp-477-6311\demos\blurmotion\blur.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<windows.h>
+

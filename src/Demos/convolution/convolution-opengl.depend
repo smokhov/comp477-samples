@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1314278274 source:j:\courses\comp477\src\convolution-opengl\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1332258564 source:j:\courses\comp477\src\convolution-opengl\convolution.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+
+1314278274 source:j:\courses\comp477\demos\convolution\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1332373295 source:j:\courses\comp477\demos\convolution\convolution.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+
+1314278274 source:j:\courses\comp-477-6311\demos\convolution\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1365174802 source:j:\courses\comp-477-6311\demos\convolution\convolution.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<GL/cugl.h>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<cmath>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1330886440 source:j:\courses\comp477\demos\nurbs\main.cpp
+	<iostream>
+	<cmath>
+	<GL/glut.h>
+
+1330889081 source:j:\courses\comp-477-6311\demos\nurbs\main.cpp
+	<iostream>
+	<cmath>
+	<GL/glut.h>
+

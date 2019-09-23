@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1267314929 source:j:\courses\comp477\src\invkin-2\pseudoinverse.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295798051 source:j:\courses\comp-477-6311\demos\pseudoinverse\pseudoinverse.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

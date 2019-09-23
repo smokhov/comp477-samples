@@ -1,0 +1,44 @@
+
+=== WX Motion Viewer (15.1.2004) ===
+
+Upgrades:
+    * decomposition of walking motions to individual steps - exports a script
+      (batch file) using a bvhcopy utility to cut the steps
+    * coordinates and velocity export of chosen joints to a CSV file for
+      analysis of the motion
+    * linear interpolation between two motion files
+    * blending of any number of motion files with uniform weights
+    * quaternions are used to represent and manipulate rotations
+    * bugfixes and minor enhancements
+
+Changes:
+    * common framerate changed to 30 fps
+    * export speed-up - the animation is not played while exporting
+
+Downgrades:
+    * joints with only 3 (ZXY rotation) or 6 (XYZ position, ZXY rotation)
+      channels are allowed in input BVH files
+      (due to simpler conversion to quaternions)
+
+
+
+=== WX Motion Capture Viewer 2 (29.10.2003) ===
+
+Upgrades:
+    * any number of motion files can be viewed and exported simultaneously
+    * shots may have different framerates, all of them are resampled
+      to 25 fps
+    * parsing speed-up
+    * all characters are valid in input BVH files
+
+Downgrades:
+    * animation recording (saving of screenshots) has been removed
+    * exactly one hierarchy (one ROOT) and one motion is allowed in input
+      BVH files
+
+
+
+=== WX Motion Capture Viewer (11.7.2003) ===
+
+* 1st release...
+

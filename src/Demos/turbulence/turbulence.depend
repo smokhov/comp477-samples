@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1300827667 source:j:\courses\comp477\src\turbulence\turbulence.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1300834341 source:j:\courses\comp477\demos\turbulence\turbulence.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/glut.h>
+
+1328390577 source:j:\courses\comp-477-6311\demos\turbulence\turbulence.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/glut.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1292161128 source:j:\courses\comp477\src\basictiming\main.cpp
+	<iostream>
+	<vector>
+	<GL/glut.h>
+	<windows.h>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1292915970 source:j:\courses\comp477\src\timing-1\main.cpp
+	<GL/glut.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+
+1294602454 source:j:\courses\comp-477-6311\demos\timing-1\timing-1.cpp
+	<GL/glut.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+

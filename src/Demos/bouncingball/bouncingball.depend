@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1328382977 source:j:\courses\comp477\demos\bouncingball\bouncingball.cpp
+	"cugl.h"
+	<GL/glui.h>
+	<GL/glut.h>
+	<GL/tube.h>
+	<cctype>
+	<io.h>
+	<cmath>
+	<fstream>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<string>
+	<windows.h>
+
+1328380377 j:\courses\comp477\demos\bouncingball\cugl.h
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1328382382 source:j:\courses\comp477\demos\bouncingball\cugl.cpp
+	"cugl.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+

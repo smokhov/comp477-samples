@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1328225316 source:j:\courses\comp477\demos\orbiting\orbiting.cpp
+	<io.h>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

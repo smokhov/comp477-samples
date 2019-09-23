@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1264685990 source:j:\courses\comp477\src\linkage\main.cpp
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295729929 source:j:\courses\comp477\src\linkage\linkage.cpp
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1295729929 source:j:\courses\comp-477-6311\demos\linkage\linkage.cpp
+	<vector>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

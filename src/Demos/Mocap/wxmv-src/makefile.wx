@@ -1,0 +1,26 @@
+###########################################################################
+#
+# File:         makefile.wx
+#
+# Purpose:      For WX Motion Viewer using wxWindows toolkit.
+#               Makefile for GCC compiler.
+#
+# Created:      Jaroslav Semancik, 2003
+#
+###########################################################################
+
+WXDIR = e:/g/wx
+
+EXTRAINC =
+EXTRACPPFLAGS =
+EXTRALIBS =
+EXTRALDFLAGS =
+
+TARGET = wxmv
+OBJECTS = $(TARGET).o export.o ogl.o bvh.o skeleton.o motion.o algebra.o base.o
+
+
+# set to include a proper makefile from wxWindows instalation according to your compiler
+
+include $(WXDIR)/src/makeprog.g95
+

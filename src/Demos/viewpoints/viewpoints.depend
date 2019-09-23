@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1263771833 source:d:\courses\comp477\src\viewpoints\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<GL/glut.h>
+	<windows.h>
+
+1293202462 source:j:\courses\archive\comp477\winter 2010\src\viewpoints\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<GL/glut.h>
+	<windows.h>
+
+1331591999 source:j:\courses\comp477\demos\viewpoints\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<GL/glut.h>
+	<windows.h>
+
+1331595090 source:j:\courses\comp-477-6311\demos\viewpoints\viewpoints.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<GL/glut.h>
+	<windows.h>
+

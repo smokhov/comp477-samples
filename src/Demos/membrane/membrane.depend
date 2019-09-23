@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1265671965 source:d:\courses\comp477\src\membrane\membrane.cpp
+	<GL/glut.h>
+	<GL/cugl.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1265675660 source:j:\courses\comp477\src\membrane\membrane.cpp
+	<GL/glut.h>
+	<GL/cugl.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1328206702 source:j:\courses\comp477\demos\membrane\membrane.cpp
+	<GL/glut.h>
+	<GL/cugl.h>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<sstream>
+

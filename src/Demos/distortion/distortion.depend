@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1261878343 source:j:\courses\comp477\src\distortion\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<GL/gle.h>
+	<windows.h>
+
+1293816800 source:j:\courses\comp477\demos\distortion\distortion.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+
+1325519675 source:j:\courses\comp-477-6311\demos\distortion\distortion.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<GL/cugl.h>
+	<GL/glut.h>
+	<windows.h>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1268759021 source:d:\courses\comp477\src\astar-improved\astar.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<set>
+	<cmath>
+	<GL/glut.h>
+
+1268784624 source:j:\courses\comp477\src\astar-improved\astar.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<set>
+	<cmath>
+	<GL/glut.h>
+
+1332110002 source:j:\courses\comp477\demos\astar-improved\astar.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<set>
+	<cmath>
+	<GL/glut.h>
+
+1356743516 source:j:\courses\comp-477-6311\demos\astar-improved\astar.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<set>
+	<cmath>
+	<GL/glut.h>
+

@@ -1,0 +1,16 @@
+
+dancer       ICON  "resources/dancer.ico"
+#include "wx/msw/wx.rc"
+
+open        BITMAP "resources/open.bmp"
+
+back        BITMAP "resources/back.bmp"
+back_one    BITMAP "resources/back_one.bmp"
+stop        BITMAP "resources/pause.bmp"
+fwd         BITMAP "resources/fwd.bmp"
+fwd_one     BITMAP "resources/fwd_one.bmp"
+
+reset       BITMAP "resources/reset.bmp"
+
+help        BITMAP "resources/help.bmp"
+
