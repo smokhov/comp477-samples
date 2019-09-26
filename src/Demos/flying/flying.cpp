@@ -17,7 +17,7 @@
 #include <sstream>
 #include <iomanip>
 #include <GL/glut.h>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include "windows.h"
 
 using namespace std;

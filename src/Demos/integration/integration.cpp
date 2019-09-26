@@ -8,7 +8,7 @@
 #include <iostream>
 #include <iomanip>
 #include <sstream>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <GL/glut.h>
 #include <windows.h>
 

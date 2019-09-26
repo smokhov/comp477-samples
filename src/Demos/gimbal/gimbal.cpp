@@ -17,7 +17,7 @@
 #include <iomanip>
 #include <io.h>
 #include <GL/glut.h>
-#include <GL/cugl.h>
+#include "cugl.h"
 
 using namespace std;
 using namespace cugl;

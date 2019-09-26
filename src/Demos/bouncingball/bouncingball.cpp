@@ -1,4 +1,4 @@
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <GL/glui.h>
 #include <GL/glut.h>
 #include <GL/tube.h>
