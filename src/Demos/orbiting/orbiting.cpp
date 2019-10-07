@@ -10,8 +10,8 @@
 #include <iostream>
 #include <iomanip>
 #include <sstream>
-#include <GL/cugl.h>
 #include <GL/glut.h>
+#include "cugl.h"
 #include <windows.h>
 
 using namespace std;

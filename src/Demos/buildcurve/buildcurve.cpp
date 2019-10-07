@@ -3,8 +3,8 @@
 #include <iomanip>
 #include <sstream>
 #include <vector>
-#include <GL/cugl.h>
 #include <GL/glut.h>
+#include "cugl.h"
 #include <windows.h>
 
 using namespace std;

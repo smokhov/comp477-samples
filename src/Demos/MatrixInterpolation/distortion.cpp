@@ -8,8 +8,8 @@
 #include <iostream>
 #include <iomanip>
 #include <sstream>
-#include <GL/cugl.h>
 #include <GL/glut.h>
+#include "cugl.h"
 #include <windows.h>
 
 using namespace std;
@@ -27,7 +27,7 @@ GLfloat dir[] = { -0.3, 1.5, 1.0, 0.0 };
 
 double r = 0;
 Matrix start;
-Matrix end;
+Matrix end_;
 
 Matrix randomRot()
 {
@@ -52,7 +52,7 @@ void display (void)
    glTranslated(0, 0, -5);
    glColor3d(0,0,0);
 
-   Matrix m = (1 - r) * start + r * end;
+   Matrix m = (1 - r) * start + r * end_;
    m.apply();
    glutSolidTeapot(1);
    glPopMatrix();
@@ -76,8 +76,8 @@ void keyboard (unsigned char key, int x, int y)
    switch (key)
    {
       case ' ':
-         start = end;
-         end = randomRot();
+         start = end_;
+         end_ = randomRot();
          r = 0;
          moving = true;
          break;
@@ -125,7 +125,7 @@ int main(int argc, char *argv[])
    glEnable(GL_NORMALIZE);
    glClearColor(1,1,1,0);
    start = randomRot();
-   end = randomRot();
+   end_ = randomRot();
    glutMainLoop();
    return 0;
 }
