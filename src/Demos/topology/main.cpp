@@ -11,7 +11,7 @@
 #include <iomanip>
 #include <sstream>
 #include <vector>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <GL/glut.h>
 
 using namespace std;
