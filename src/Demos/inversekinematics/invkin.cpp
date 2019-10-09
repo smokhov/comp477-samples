@@ -9,7 +9,7 @@
 #include <sstream>
 #include <iomanip>
 #include <vector>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <GL/glut.h>
 #include <windows.h>
 

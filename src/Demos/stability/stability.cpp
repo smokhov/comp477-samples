@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <sstream>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <GL/glut.h>
 
 using namespace std;
