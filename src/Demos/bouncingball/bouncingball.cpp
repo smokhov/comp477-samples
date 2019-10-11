@@ -1,7 +1,8 @@
 #include "cugl.h"
 #include <GL/glui.h>
 #include <GL/glut.h>
-#include <GL/tube.h>
+//#include <GL/tube.h>
+#include "GL/gle.h"
 
 #include <cctype>
 #include <io.h>
