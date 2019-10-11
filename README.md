@@ -12,7 +12,7 @@ link other examples here as well gradually.
   * Rotations: [Tutorial 17](https://github.com/opengl-tutorials/ogl/tree/master/tutorial17_rotations)
   * Requires [GLM](https://github.com/g-truc/glm)
 * (upcoming) [Softbody Simulation System](https://github.com/OpenISS/SoftbodySimulationSystem) from Miao Song
-* Past COMP477 assignments and projects on GitHub
+* Past COMP477 assignments and projects on GitHub from Tiberiu Popa
   * [KevinZkX/comp477-assignment](https://github.com/KevinZkX/comp477-assignment) -- can serve as a template project as well
   * Requires [GLM](https://github.com/g-truc/glm)
 * Vega deformable objects library
