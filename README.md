@@ -5,9 +5,10 @@
 Based primarily on the example demos from [Peter Grogono](https://github.com/PeterGrogono) and we
 link other examples here as well gradually.
 
-* Some examples require [CUGL](https://github.com/OpenISS/CUGL)
+* Some examples require [CUGL](https://github.com/OpenISS/CUGL) and `freeglut`
   * `flying`, `gimbal`, `integration`, `MatrixInterpolation`, `bouncingcube` may serve as template project
   * `adapt`, `timing-1`, `timing-2`, `orbiting`, `buildcurve`
+  * `bouncingball` also requires [GLE extrusion](https://github.com/linas/glextrusion) and [GLUI](https://github.com/libglui/glui)
 * Look at `ogl` examples git submodule from [OpenISS](https://github.com/OpenISS/OpenISS) for OpenGL 3+ tutorials
   * Rotations: [Tutorial 17](https://github.com/opengl-tutorials/ogl/tree/master/tutorial17_rotations)
   * Requires [GLM](https://github.com/g-truc/glm)
