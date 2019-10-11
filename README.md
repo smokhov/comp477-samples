@@ -1,5 +1,7 @@
 # Animation for Computer Games (samples) for COMP477/6311, Concordia University, Montreal
 
+* [Fall 2019 course instance](http://users.encs.concordia.ca/~comp477_2)
+
 Based primarily on the example demos from [Peter Grogono](https://github.com/PeterGrogono) and we
 link other examples here as well gradually.
 
