@@ -17,6 +17,7 @@ link other examples here as well gradually.
 * Past COMP477 assignments and projects on GitHub from Tiberiu Popa
   * [KevinZkX/comp477-assignment](https://github.com/KevinZkX/comp477-assignment) -- can serve as a template project as well
   * Requires [GLM](https://github.com/g-truc/glm)
+* Textbook code (C and Mathematca) at [Elsevier](https://booksite.elsevier.com/9780124158429/)
 * Vega deformable objects library
 * Max, PureData, and Processing IDE examples
 
