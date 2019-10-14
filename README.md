@@ -20,6 +20,7 @@ link other examples here as well gradually.
 * Textbook code (C and Mathematca) at [Elsevier](https://booksite.elsevier.com/9780124158429/)
 * Vega deformable objects library
 * Max, PureData, and Processing IDE examples
+* [PSDoom](https://github.com/smokhov/atsm/tree/psdoom_fix/examples/c/psdoom) in C
 
 ## Layout
 
