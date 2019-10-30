@@ -7,7 +7,7 @@
 */
 
 #include <GL/glut.h>
-#include <GL/cugl.h>
+#include "cugl.h"
 #include <cmath>
 #include <fstream>
 #include <iostream>
@@ -24,7 +24,7 @@ const int DIM = N + 1;
 double z[DIM][DIM];       // Height array
 Vector normal[DIM][DIM];  // Normal vector for each point
 
-double time = 0; // Time and step for integration.
+double time_ = 0; // Time and step for integration.
 
 const int WIDTH  = 900;  // Initial width of graphics window.
 const int HEIGHT = 600;  // Initial height of graphics window.
@@ -75,7 +75,7 @@ void clearTitleBar (int)
    glutSetWindowTitle("");
 }
 
-// Display a message in the title bar for a short time.
+// Display a message in the title bar for a short time_.
 void setTitleBar(string message)
 {
    glutSetWindowTitle(message.c_str());
@@ -244,7 +244,7 @@ void update()
             double x = (2.0 * PI * i) / N;
             for (int j = 0; j <= N; j++)
             {
-               z[i][j] = curr.amplitude * cos((x - vel * time) / curr.wavelength);
+               z[i][j] = curr.amplitude * cos((x - vel * time_) / curr.wavelength);
 
             }
          }
@@ -259,7 +259,7 @@ void update()
             for (int j = 0; j <= N; j++)
             {
                double y = (2.0 * PI * j) / N;
-               z[i][j] = curr.amplitude * cos((x * cos(dir[0]) + y * sin(dir[0]) - vel * time) / curr.wavelength);
+               z[i][j] = curr.amplitude * cos((x * cos(dir[0]) + y * sin(dir[0]) - vel * time_) / curr.wavelength);
 
             }
          }
@@ -284,7 +284,7 @@ void update()
                      for (int j = 0; j <= N; j++)
                      {
                         double y = (2.0 * PI * j) / N;
-                        z[i][j] += vamp * cos((x * cos(dir[n]) + y * sin(dir[n]) - vel * time) / vlen);
+                        z[i][j] += vamp * cos((x * cos(dir[n]) + y * sin(dir[n]) - vel * time_) / vlen);
                      }
                   }
                }
@@ -305,7 +305,7 @@ void update()
             {
                double y = (2.0 * PI * j) / N;
                double r = sqrt(sqr(x - PI) + sqr(y - PI));
-               z[i][j] = curr.amplitude * cos((r - vel * time) / curr.wavelength) / (1 + sqr(r));
+               z[i][j] = curr.amplitude * cos((r - vel * time_) / curr.wavelength) / (1 + sqr(r));
             }
          }
          computeNormals();
@@ -391,7 +391,7 @@ void display ()
 // Update and display new configuration.
 void idle ()
 {
-   time += curr.dt;
+   time_ += curr.dt;
    update();
    glutPostRedisplay();
 }
